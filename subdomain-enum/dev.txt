@@ -1,0 +1,4 @@
+https://phoenixnap.com/kb/docker-run-command-with-examples
+https://stackoverflow.com/questions/22049212/docker-copying-files-from-docker-container-to-host
+
+need to grep container to copy output dir to localhost
